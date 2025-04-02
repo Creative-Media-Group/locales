@@ -185,3 +185,4 @@ Hier sind alle 184 zweibuchstabigen ISO 639-1-Sprachcodes, die zur Identifizieru
 182. **zu** - Zulu
 
 Diese Liste umfasst die zweibuchstabigen ISO 639-1-Codes, die zur Identifizierung von Sprachen in verschiedenen Kontexten verwendet werden, darunter Softwarelokalisierung, Bibliothekswesen und Internet. Wenn du weitere Details zu einem bestimmten Code benötigst oder eine spezifische Sprache suchst, lass es mich wissen!
+hier geht es zur [csv datei] (https://github.com/Creative-Media-Group/locales). 
